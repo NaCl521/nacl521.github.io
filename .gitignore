@@ -1,0 +1,13 @@
+blog.code-workspace
+
+.hugo_build.lock
+
+archetypes/
+assets/
+config/
+content/
+data/
+i18n/
+layouts/
+resources/
+static/
