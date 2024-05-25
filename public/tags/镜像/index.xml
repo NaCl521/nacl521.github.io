@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>镜像 on 月遇从云 · 花遇和风</title>
-    <link>/tags/%E9%95%9C%E5%83%8F/</link>
+    <link>https://nacl521.github.io/tags/%E9%95%9C%E5%83%8F/</link>
     <description>Recent content in 镜像 on 月遇从云 · 花遇和风</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2024 苏 - 摸鱼中</copyright>
-    <lastBuildDate>Mon, 05 Feb 2024 16:18:10 +0800</lastBuildDate><atom:link href="/tags/%E9%95%9C%E5%83%8F/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Feb 2024 16:18:10 +0800</lastBuildDate><atom:link href="https://nacl521.github.io/tags/%E9%95%9C%E5%83%8F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux 下制作 U 盘安装镜像</title>
-      <link>/linux/iso2usb/</link>
+      <link>https://nacl521.github.io/linux/iso2usb/</link>
       <pubDate>Mon, 05 Feb 2024 16:18:10 +0800</pubDate>
       
-      <guid>/linux/iso2usb/</guid>
+      <guid>https://nacl521.github.io/linux/iso2usb/</guid>
       <description></description>
       
     </item>

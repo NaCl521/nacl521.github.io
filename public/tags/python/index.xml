@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on 月遇从云 · 花遇和风</title>
-    <link>/tags/python/</link>
+    <link>https://nacl521.github.io/tags/python/</link>
     <description>Recent content in Python on 月遇从云 · 花遇和风</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2024 苏 - 摸鱼中</copyright>
-    <lastBuildDate>Sun, 03 Dec 2023 17:18:53 +0800</lastBuildDate><atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Dec 2023 17:18:53 +0800</lastBuildDate><atom:link href="https://nacl521.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python 生成高强度密码</title>
-      <link>/projects/passwd/</link>
+      <link>https://nacl521.github.io/projects/passwd/</link>
       <pubDate>Sun, 03 Dec 2023 17:18:53 +0800</pubDate>
       
-      <guid>/projects/passwd/</guid>
+      <guid>https://nacl521.github.io/projects/passwd/</guid>
       <description></description>
       
     </item>

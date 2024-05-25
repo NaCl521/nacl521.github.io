@@ -2,210 +2,220 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>欢迎来逛 on 月遇从云 · 花遇和风</title>
-    <link>/</link>
+    <link>https://nacl521.github.io/</link>
     <description>Recent content in 欢迎来逛 on 月遇从云 · 花遇和风</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2024 苏 - 摸鱼中</copyright>
-    <lastBuildDate>Wed, 24 Apr 2024 23:23:22 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 May 2024 16:16:04 +0800</lastBuildDate><atom:link href="https://nacl521.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>留言板</title>
+      <link>https://nacl521.github.io/notes/comments/</link>
+      <pubDate>Sat, 25 May 2024 16:16:04 +0800</pubDate>
+      
+      <guid>https://nacl521.github.io/notes/comments/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Arch Linux 自用软件备忘</title>
-      <link>/linux/app/</link>
+      <link>https://nacl521.github.io/linux/app/</link>
       <pubDate>Wed, 24 Apr 2024 23:23:22 +0800</pubDate>
       
-      <guid>/linux/app/</guid>
+      <guid>https://nacl521.github.io/linux/app/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>我的 Arch Linux 安装备忘</title>
-      <link>/linux/arch_install/</link>
+      <link>https://nacl521.github.io/linux/arch_install/</link>
       <pubDate>Tue, 23 Apr 2024 15:00:00 +0800</pubDate>
       
-      <guid>/linux/arch_install/</guid>
+      <guid>https://nacl521.github.io/linux/arch_install/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/linux/arch_install/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nacl521.github.io/linux/arch_install/featured.jpg" />
     </item>
     
     <item>
       <title>修理一台老笔记本</title>
-      <link>/notes/20240422_old_laptop/</link>
+      <link>https://nacl521.github.io/notes/20240422_old_laptop/</link>
       <pubDate>Mon, 22 Apr 2024 16:04:06 +0800</pubDate>
       
-      <guid>/notes/20240422_old_laptop/</guid>
+      <guid>https://nacl521.github.io/notes/20240422_old_laptop/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Linux screen 基本用法备忘</title>
-      <link>/linux/screen/</link>
+      <link>https://nacl521.github.io/linux/screen/</link>
       <pubDate>Mon, 22 Apr 2024 02:01:00 +0800</pubDate>
       
-      <guid>/linux/screen/</guid>
+      <guid>https://nacl521.github.io/linux/screen/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Minecraft 服务器属性参考</title>
-      <link>/games/mc_server_properties/</link>
+      <link>https://nacl521.github.io/games/mc_server_properties/</link>
       <pubDate>Sat, 20 Apr 2024 01:20:40 +0800</pubDate>
       
-      <guid>/games/mc_server_properties/</guid>
+      <guid>https://nacl521.github.io/games/mc_server_properties/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>搭建 Java 原版和 Fabric 的 Minecraft 服务器</title>
-      <link>/games/mc_server/</link>
+      <link>https://nacl521.github.io/games/mc_server/</link>
       <pubDate>Fri, 19 Apr 2024 00:03:15 +0800</pubDate>
       
-      <guid>/games/mc_server/</guid>
+      <guid>https://nacl521.github.io/games/mc_server/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>搭建 Minecraft Forge 服务器</title>
-      <link>/games/mc_server_forge/</link>
+      <link>https://nacl521.github.io/games/mc_server_forge/</link>
       <pubDate>Fri, 19 Apr 2024 00:03:15 +0800</pubDate>
       
-      <guid>/games/mc_server_forge/</guid>
+      <guid>https://nacl521.github.io/games/mc_server_forge/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>诺顿一世，美国历史上唯一的皇帝</title>
-      <link>/reading/%E8%AF%BA%E9%A1%BF%E4%B8%80%E4%B8%96/</link>
+      <link>https://nacl521.github.io/reading/%E8%AF%BA%E9%A1%BF%E4%B8%80%E4%B8%96/</link>
       <pubDate>Sat, 24 Feb 2024 11:29:50 +0800</pubDate>
       
-      <guid>/reading/%E8%AF%BA%E9%A1%BF%E4%B8%80%E4%B8%96/</guid>
+      <guid>https://nacl521.github.io/reading/%E8%AF%BA%E9%A1%BF%E4%B8%80%E4%B8%96/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>在 hugo 博客中嵌入 B 站视频</title>
-      <link>/notes/bilibili/</link>
+      <link>https://nacl521.github.io/notes/bilibili/</link>
       <pubDate>Tue, 06 Feb 2024 21:50:24 +0800</pubDate>
       
-      <guid>/notes/bilibili/</guid>
+      <guid>https://nacl521.github.io/notes/bilibili/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Linux 下制作 U 盘安装镜像</title>
-      <link>/linux/iso2usb/</link>
+      <link>https://nacl521.github.io/linux/iso2usb/</link>
       <pubDate>Mon, 05 Feb 2024 16:18:10 +0800</pubDate>
       
-      <guid>/linux/iso2usb/</guid>
+      <guid>https://nacl521.github.io/linux/iso2usb/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>功能备忘</title>
-      <link>/notes/mark/</link>
+      <link>https://nacl521.github.io/notes/mark/</link>
       <pubDate>Sun, 04 Feb 2024 23:00:00 +0800</pubDate>
       
-      <guid>/notes/mark/</guid>
+      <guid>https://nacl521.github.io/notes/mark/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/notes/mark/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nacl521.github.io/notes/mark/featured.jpg" />
     </item>
     
     <item>
       <title>Python 生成高强度密码</title>
-      <link>/projects/passwd/</link>
+      <link>https://nacl521.github.io/projects/passwd/</link>
       <pubDate>Sun, 03 Dec 2023 17:18:53 +0800</pubDate>
       
-      <guid>/projects/passwd/</guid>
+      <guid>https://nacl521.github.io/projects/passwd/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>数据结构</title>
-      <link>/projects/datastruct/</link>
+      <link>https://nacl521.github.io/projects/datastruct/</link>
       <pubDate>Mon, 27 Nov 2023 16:22:09 +0800</pubDate>
       
-      <guid>/projects/datastruct/</guid>
+      <guid>https://nacl521.github.io/projects/datastruct/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>你真的了解生蚝吗</title>
-      <link>/reading/%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BA%86%E8%A7%A3%E7%94%9F%E8%9A%9D%E5%90%97/</link>
+      <link>https://nacl521.github.io/reading/%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BA%86%E8%A7%A3%E7%94%9F%E8%9A%9D%E5%90%97/</link>
       <pubDate>Sat, 18 Nov 2023 14:51:02 +0800</pubDate>
       
-      <guid>/reading/%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BA%86%E8%A7%A3%E7%94%9F%E8%9A%9D%E5%90%97/</guid>
+      <guid>https://nacl521.github.io/reading/%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BA%86%E8%A7%A3%E7%94%9F%E8%9A%9D%E5%90%97/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/reading/%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BA%86%E8%A7%A3%E7%94%9F%E8%9A%9D%E5%90%97/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nacl521.github.io/reading/%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BA%86%E8%A7%A3%E7%94%9F%E8%9A%9D%E5%90%97/featured.jpg" />
     </item>
     
     <item>
       <title>坐在路边鼓掌的人</title>
-      <link>/reading/%E5%9D%90%E5%9C%A8%E8%B7%AF%E8%BE%B9%E9%BC%93%E6%8E%8C%E7%9A%84%E4%BA%BA/</link>
+      <link>https://nacl521.github.io/reading/%E5%9D%90%E5%9C%A8%E8%B7%AF%E8%BE%B9%E9%BC%93%E6%8E%8C%E7%9A%84%E4%BA%BA/</link>
       <pubDate>Sat, 18 Nov 2023 13:00:57 +0800</pubDate>
       
-      <guid>/reading/%E5%9D%90%E5%9C%A8%E8%B7%AF%E8%BE%B9%E9%BC%93%E6%8E%8C%E7%9A%84%E4%BA%BA/</guid>
+      <guid>https://nacl521.github.io/reading/%E5%9D%90%E5%9C%A8%E8%B7%AF%E8%BE%B9%E9%BC%93%E6%8E%8C%E7%9A%84%E4%BA%BA/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/reading/%E5%9D%90%E5%9C%A8%E8%B7%AF%E8%BE%B9%E9%BC%93%E6%8E%8C%E7%9A%84%E4%BA%BA/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nacl521.github.io/reading/%E5%9D%90%E5%9C%A8%E8%B7%AF%E8%BE%B9%E9%BC%93%E6%8E%8C%E7%9A%84%E4%BA%BA/featured.jpeg" />
     </item>
     
     <item>
       <title>枕头人</title>
-      <link>/reading/%E6%9E%95%E5%A4%B4%E4%BA%BA/</link>
+      <link>https://nacl521.github.io/reading/%E6%9E%95%E5%A4%B4%E4%BA%BA/</link>
       <pubDate>Sat, 18 Nov 2023 12:56:05 +0800</pubDate>
       
-      <guid>/reading/%E6%9E%95%E5%A4%B4%E4%BA%BA/</guid>
+      <guid>https://nacl521.github.io/reading/%E6%9E%95%E5%A4%B4%E4%BA%BA/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/reading/%E6%9E%95%E5%A4%B4%E4%BA%BA/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nacl521.github.io/reading/%E6%9E%95%E5%A4%B4%E4%BA%BA/featured.jpeg" />
     </item>
     
     <item>
       <title>路口的三个死囚笼</title>
-      <link>/reading/%E8%B7%AF%E5%8F%A3%E7%9A%84%E4%B8%89%E4%B8%AA%E6%AD%BB%E5%9B%9A%E7%AC%BC/</link>
+      <link>https://nacl521.github.io/reading/%E8%B7%AF%E5%8F%A3%E7%9A%84%E4%B8%89%E4%B8%AA%E6%AD%BB%E5%9B%9A%E7%AC%BC/</link>
       <pubDate>Sat, 18 Nov 2023 12:46:12 +0800</pubDate>
       
-      <guid>/reading/%E8%B7%AF%E5%8F%A3%E7%9A%84%E4%B8%89%E4%B8%AA%E6%AD%BB%E5%9B%9A%E7%AC%BC/</guid>
+      <guid>https://nacl521.github.io/reading/%E8%B7%AF%E5%8F%A3%E7%9A%84%E4%B8%89%E4%B8%AA%E6%AD%BB%E5%9B%9A%E7%AC%BC/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/reading/%E8%B7%AF%E5%8F%A3%E7%9A%84%E4%B8%89%E4%B8%AA%E6%AD%BB%E5%9B%9A%E7%AC%BC/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nacl521.github.io/reading/%E8%B7%AF%E5%8F%A3%E7%9A%84%E4%B8%89%E4%B8%AA%E6%AD%BB%E5%9B%9A%E7%AC%BC/featured.jpg" />
     </item>
     
     <item>
       <title>环形废墟</title>
-      <link>/reading/%E7%8E%AF%E5%BD%A2%E5%BA%9F%E5%A2%9F/</link>
+      <link>https://nacl521.github.io/reading/%E7%8E%AF%E5%BD%A2%E5%BA%9F%E5%A2%9F/</link>
       <pubDate>Sat, 18 Nov 2023 11:25:41 +0800</pubDate>
       
-      <guid>/reading/%E7%8E%AF%E5%BD%A2%E5%BA%9F%E5%A2%9F/</guid>
+      <guid>https://nacl521.github.io/reading/%E7%8E%AF%E5%BD%A2%E5%BA%9F%E5%A2%9F/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/reading/%E7%8E%AF%E5%BD%A2%E5%BA%9F%E5%A2%9F/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nacl521.github.io/reading/%E7%8E%AF%E5%BD%A2%E5%BA%9F%E5%A2%9F/featured.jpeg" />
     </item>
     
     <item>
       <title>关于本博客的碎碎念</title>
-      <link>/notes/about/</link>
+      <link>https://nacl521.github.io/notes/about/</link>
       <pubDate>Sat, 18 Nov 2023 03:18:20 +0800</pubDate>
       
-      <guid>/notes/about/</guid>
+      <guid>https://nacl521.github.io/notes/about/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/notes/about/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nacl521.github.io/notes/about/featured.jpg" />
     </item>
     
     <item>
       <title>Linux 联网</title>
-      <link>/linux/network/</link>
+      <link>https://nacl521.github.io/linux/network/</link>
       <pubDate>Thu, 16 Nov 2023 16:50:54 +0800</pubDate>
       
-      <guid>/linux/network/</guid>
+      <guid>https://nacl521.github.io/linux/network/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/linux/network/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nacl521.github.io/linux/network/featured.jpg" />
     </item>
     
   </channel>

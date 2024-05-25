@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C/C&#43;&#43; on 月遇从云 · 花遇和风</title>
-    <link>/tags/c/c&#43;&#43;/</link>
+    <link>https://nacl521.github.io/tags/c/c&#43;&#43;/</link>
     <description>Recent content in C/C&#43;&#43; on 月遇从云 · 花遇和风</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2024 苏 - 摸鱼中</copyright>
-    <lastBuildDate>Mon, 27 Nov 2023 16:22:09 +0800</lastBuildDate><atom:link href="/tags/c/c++/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Nov 2023 16:22:09 +0800</lastBuildDate><atom:link href="https://nacl521.github.io/tags/c/c++/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>数据结构</title>
-      <link>/projects/datastruct/</link>
+      <link>https://nacl521.github.io/projects/datastruct/</link>
       <pubDate>Mon, 27 Nov 2023 16:22:09 +0800</pubDate>
       
-      <guid>/projects/datastruct/</guid>
+      <guid>https://nacl521.github.io/projects/datastruct/</guid>
       <description></description>
       
     </item>
