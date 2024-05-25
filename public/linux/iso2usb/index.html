@@ -381,11 +381,12 @@
 
 
             
-            
-  <a href="/notes/about/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+             
+  <div>
+  <div class="cursor-pointer flex items-center nested-menu">
     
     <span  class="mr-1" >
-        
+      
 
   <span class="relative block icon">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="currentColor" d="M226.5 92.9c14.3 42.9-.3 86.2-32.6 96.8s-70.1-15.6-84.4-58.5s.3-86.2 32.6-96.8s70.1 15.6 84.4 58.5zM100.4 198.6c18.9 32.4 14.3 70.1-10.2 84.1s-59.7-.9-78.5-33.3S-2.7 179.3 21.8 165.3s59.7 .9 78.5 33.3zM69.2 401.2C121.6 259.9 214.7 224 256 224s134.4 35.9 186.8 177.2c3.6 9.7 5.2 20.1 5.2 30.5v1.6c0 25.8-20.9 46.7-46.7 46.7c-11.5 0-22.9-1.4-34-4.2l-88-22c-15.3-3.8-31.3-3.8-46.6 0l-88 22c-11.1 2.8-22.5 4.2-34 4.2C84.9 480 64 459.1 64 433.3v-1.6c0-10.4 1.6-20.8 5.2-30.5zM421.8 282.7c-24.5-14-29.1-51.7-10.2-84.1s54-47.3 78.5-33.3s29.1 51.7 10.2 84.1s-54 47.3-78.5 33.3zM310.1 189.7c-32.3-10.6-46.9-53.9-32.6-96.8s52.1-69.1 84.4-58.5s46.9 53.9 32.6 96.8s-52.1 69.1-84.4 58.5z"/></svg>
@@ -395,10 +396,47 @@
 
     </span>
     
-    <p class="text-base font-medium" title="">
-        关于
-    </p>
-</a>
+    <a  href="/notes/about/"   class="text-base font-medium text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="">
+      关于
+    </a>
+    <span>
+      
+
+  <span class="relative block icon">
+    <svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 20 20"
+  fill="currentColor"
+  aria-hidden="true"
+>
+  <path
+    fill-rule="evenodd"
+    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
+    clip-rule="evenodd"
+  />
+</svg>
+
+  </span>
+
+
+    </span>
+  </div>
+  <div class="absolute menuhide">
+    <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl">
+      <div class="flex flex-col space-y-3">
+        
+        <a href="/notes/comments/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+          
+          <p class="text-sm font-sm" title="">
+            留言板
+          </p>
+        </a>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
 
 
             
@@ -759,11 +797,11 @@
 
                     
 
-                    
+                     
   <li class="mt-1">
-    <a href="/notes/about/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    <a class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
         
-        <div  class="mr-2" >
+        <span  class="mr-1" >
             
 
   <span class="relative block icon">
@@ -772,13 +810,45 @@
   </span>
 
 
-        </div>
+        </span>
         
         <p class="text-bg font-bg" title="">
             关于
         </p>
+        <span>
+            
+
+  <span class="relative block icon">
+    <svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 20 20"
+  fill="currentColor"
+  aria-hidden="true"
+>
+  <path
+    fill-rule="evenodd"
+    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
+    clip-rule="evenodd"
+  />
+</svg>
+
+  </span>
+
+
+        </span>
     </a>
 </li>
+
+<li class="mt-1">
+    <a href="/notes/comments/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        
+        <p class="text-sm font-small" title="">
+            留言板
+        </p>
+    </a>
+</li>
+
+<li class="mb-2"></li>
 
 
 
@@ -1628,6 +1698,74 @@
   
 
 
+    
+    
+    <div class="pt-3">
+      <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
+      <div class="pt-3">
+        <br />
+
+<link rel="stylesheet" href="https://unpkg.com/@waline/client@v3/dist/waline.css" />
+
+<div id="waline"></div>
+<script type="module">
+  import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+
+  init({
+    el: '#waline',
+    serverURL: 'https://nacl.zeabur.app/',
+    emoji: [
+      'https://unpkg.com/@waline/emojis/bilibili',
+      'https://unpkg.com/@waline/emojis/bmoji',
+    ],
+    meta: ['nick', 'mail'],
+    
+    lang: "zh-CN",
+    locale: {
+      comment: '留言板',
+      placeholder: '• 这里留言板哟 ₍₍ ◝(・ω・)◟ ⁾⁾ 不来说两句嘛 •',
+      gifSearchPlaceholder: '搜索表情包...',
+      admin: '作者',
+      sofa: '神评尚无，沙发虚位以待',
+      anonymous: '匿名者',
+      level0: '潜水',
+      level1: '新秀',
+      level2: '吐槽',
+      level3: '活跃',
+      level4: '话痨',
+      level5: '大水怪',
+    }
+  });
+</script>
+
+<style type="text/css">
+  :root {
+     
+    --waline-theme-color: rgba(var(--color-primary-400));
+    --waline-color: var(--tw-prose-quotes);
+    --waline-bg-color: transparent;
+    --waline-border-color: #747474;
+    --waline-info-color: var(--tw-prose-quotes);
+    --waline-info-bg-color: var(--tw-ring-color);
+  }
+
+  .wl-editor:focus,
+  .wl-input:focus {
+    background: transparent;
+  }
+
+  .wl-editor,
+  .wl-input {
+    max-width: 88%;
+  }
+
+  .wl-reaction-item.active .wl-reaction-votes {
+    color: white;
+  }
+</style>
+      </div>
+    </div>
+    
     
   </footer>
 </article>
