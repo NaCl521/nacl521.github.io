@@ -58,15 +58,5 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nacl521.github.io/reading/%E8%B7%AF%E5%8F%A3%E7%9A%84%E4%B8%89%E4%B8%AA%E6%AD%BB%E5%9B%9A%E7%AC%BC/featured.jpg" />
     </item>
     
-    <item>
-      <title>环形废墟</title>
-      <link>https://nacl521.github.io/reading/%E7%8E%AF%E5%BD%A2%E5%BA%9F%E5%A2%9F/</link>
-      <pubDate>Sat, 18 Nov 2023 11:25:41 +0800</pubDate>
-      
-      <guid>https://nacl521.github.io/reading/%E7%8E%AF%E5%BD%A2%E5%BA%9F%E5%A2%9F/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nacl521.github.io/reading/%E7%8E%AF%E5%BD%A2%E5%BA%9F%E5%A2%9F/featured.jpeg" />
-    </item>
-    
   </channel>
 </rss>
