@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>程序笔记 on 月遇从云 · 花遇和风</title>
-    <link>/projects/</link>
+    <link>https://nacl521.github.io/projects/</link>
     <description>Recent content in 程序笔记 on 月遇从云 · 花遇和风</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2024 苏 - 摸鱼中</copyright>
-    <lastBuildDate>Thu, 16 Nov 2023 15:09:10 +0800</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Nov 2023 15:09:10 +0800</lastBuildDate><atom:link href="https://nacl521.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python 生成高强度密码</title>
-      <link>/projects/passwd/</link>
+      <link>https://nacl521.github.io/projects/passwd/</link>
       <pubDate>Sun, 03 Dec 2023 17:18:53 +0800</pubDate>
       
-      <guid>/projects/passwd/</guid>
+      <guid>https://nacl521.github.io/projects/passwd/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>数据结构</title>
-      <link>/projects/datastruct/</link>
+      <link>https://nacl521.github.io/projects/datastruct/</link>
       <pubDate>Mon, 27 Nov 2023 16:22:09 +0800</pubDate>
       
-      <guid>/projects/datastruct/</guid>
+      <guid>https://nacl521.github.io/projects/datastruct/</guid>
       <description></description>
       
     </item>

@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on 月遇从云 · 花遇和风</title>
-    <link>/tags/linux/</link>
+    <link>https://nacl521.github.io/tags/linux/</link>
     <description>Recent content in Linux on 月遇从云 · 花遇和风</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2024 苏 - 摸鱼中</copyright>
-    <lastBuildDate>Wed, 24 Apr 2024 23:23:22 +0800</lastBuildDate><atom:link href="/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Apr 2024 23:23:22 +0800</lastBuildDate><atom:link href="https://nacl521.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arch Linux 自用软件备忘</title>
-      <link>/linux/app/</link>
+      <link>https://nacl521.github.io/linux/app/</link>
       <pubDate>Wed, 24 Apr 2024 23:23:22 +0800</pubDate>
       
-      <guid>/linux/app/</guid>
+      <guid>https://nacl521.github.io/linux/app/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>我的 Arch Linux 安装备忘</title>
-      <link>/linux/arch_install/</link>
+      <link>https://nacl521.github.io/linux/arch_install/</link>
       <pubDate>Tue, 23 Apr 2024 15:00:00 +0800</pubDate>
       
-      <guid>/linux/arch_install/</guid>
+      <guid>https://nacl521.github.io/linux/arch_install/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/linux/arch_install/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nacl521.github.io/linux/arch_install/featured.jpg" />
     </item>
     
     <item>
       <title>Linux screen 基本用法备忘</title>
-      <link>/linux/screen/</link>
+      <link>https://nacl521.github.io/linux/screen/</link>
       <pubDate>Mon, 22 Apr 2024 02:01:00 +0800</pubDate>
       
-      <guid>/linux/screen/</guid>
+      <guid>https://nacl521.github.io/linux/screen/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Linux 下制作 U 盘安装镜像</title>
-      <link>/linux/iso2usb/</link>
+      <link>https://nacl521.github.io/linux/iso2usb/</link>
       <pubDate>Mon, 05 Feb 2024 16:18:10 +0800</pubDate>
       
-      <guid>/linux/iso2usb/</guid>
+      <guid>https://nacl521.github.io/linux/iso2usb/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Linux 联网</title>
-      <link>/linux/network/</link>
+      <link>https://nacl521.github.io/linux/network/</link>
       <pubDate>Thu, 16 Nov 2023 16:50:54 +0800</pubDate>
       
-      <guid>/linux/network/</guid>
+      <guid>https://nacl521.github.io/linux/network/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/linux/network/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nacl521.github.io/linux/network/featured.jpg" />
     </item>
     
   </channel>
