@@ -113,7 +113,7 @@
     "keywords": ["怪谈","阅读","摸鱼"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "503"
+    "wordCount": "467"
   }]
   </script>
 
@@ -1047,7 +1047,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-06-15 18:44:00 &#43;0800 CST">2024年6月15日</time><span class="px-2 text-primary-500">&middot;</span><span>503 字</span><span class="px-2 text-primary-500">&middot;</span><span title="预计阅读">2 分钟</span><span class="px-2 text-primary-500">&middot;</span>
+  <time datetime="2024-06-15 18:44:00 &#43;0800 CST">2024年6月15日</time><span class="px-2 text-primary-500">&middot;</span><span>467 字</span><span class="px-2 text-primary-500">&middot;</span><span title="预计阅读">1 分钟</span><span class="px-2 text-primary-500">&middot;</span>
 
 
 <script type="text/javascript" src="/js/zen-mode.min.ccc8b2a0c4505216444ca25530c7328aa0bef94f43dabaf3e598e1b4271de9eec76c1cb35917471a4f7ccb8d84051b3acef42baa30724ac3a667fcf1fec4432a.js" integrity="sha512-zMiyoMRQUhZETKJVMMcyiqC&#43;&#43;U9D2rrz5ZjhtCcd6e7HbByzWRdHGk98y42EBRs6zvQrqjBySsOmZ/zx/sRDKg=="></script>
@@ -1147,7 +1147,84 @@
   
   <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
     
-    
+     <div
+      class="order-first lg:ml-auto px-0 lg:order-last ltr:lg:pl-8 rtl:lg:pr-8">
+      <div class="toc ltr:pl-5 rtl:pr-5 print:hidden lg:sticky lg:top-[140px]">
+
+         <details open class="toc-right mt-0 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 hidden lg:block">
+  <summary
+    class="block py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    目录
+  </summary>
+  <div
+    class="min-w-[220px] py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-nzulvhz-no45040714">&raquo; NzULvhz No.45040714</a></li>
+    <li><a href="#-nzulvhz-no45041279">&raquo; NzULvhz No.45041279</a></li>
+  </ul>
+</nav>
+  </div>
+</details>
+<details class="toc-inside mt-0 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 lg:hidden">
+  <summary
+    class="py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    目录
+  </summary>
+  <div
+    class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-nzulvhz-no45040714">&raquo; NzULvhz No.45040714</a></li>
+    <li><a href="#-nzulvhz-no45041279">&raquo; NzULvhz No.45041279</a></li>
+  </ul>
+</nav>
+  </div>
+</details>
+
+ 
+<script>
+  (function () {
+    var $toc = $('#TableOfContents');
+    if ($toc.length > 0) {
+      var $window = $(window);
+
+      function onScroll() {
+        var currentScroll = $window.scrollTop();
+        var h = $('.anchor');
+        var id = "";
+        h.each(function (i, e) {
+          e = $(e);
+          if (e.offset().top - $(window).height()/3 <= currentScroll) {
+            id = decodeURIComponent(e.attr('id'));
+          }
+        });
+        var active = $toc.find('a.active');      
+        if (active.length == 1 && active.eq(0).attr('href') == '#' + id) return true;
+
+        active.each(function (i, e) {
+          
+            $(e).removeClass('active');
+          
+        });
+        $toc.find('a[href="#' + id + '"]').addClass('active')
+        $toc.find('a[href="#' + id + '"]').parentsUntil('#TableOfContents').each(function (i, e) {
+          $(e).children('a').parents('ul').show();          
+        });
+      }
+
+      $window.on('scroll', onScroll);
+      $(document).ready(function () {
+        
+        onScroll();
+      });
+    }
+  })();
+</script>
+
+   </div>
+      </div>
+      
 
       <div class="min-w-0 min-h-0 max-w-fit">
         
@@ -1256,45 +1333,65 @@
 
         <div class="article-content max-w-prose mb-20">
           <div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
-  摘自论坛用户（NzULvhz）破译密码的留言（No.45040714）
+  摘自论坛用户 NzULvhz 破译密码的留言
 </div>
 
-<blockquote>
-<p>NzULvhz No.45040714</p>
-</blockquote>
+<hr>
+
+
+<h2 class="relative group">&raquo; NzULvhz No.45040714 
+    <div id="-nzulvhz-no45040714" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#-nzulvhz-no45040714" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
 <p>key 除「秘钥」以外的另一释义为「关键」，频道 7 中曾播报「关键为悬崖」，可知秘钥为「悬崖」（cliff）。再根据 M209 的 Beaufort 加密算法可翻译出明文，如下:</p>
 </BR>
-<p>密文：USMXURHIM
-明文：IT WILL EAT（它会吞噬）</p>
+<p>密文：USMXURHIM</p>
+<p>明文：IT WILL EAT（它会吞噬）</p>
 </BR>
-<p>密文：USMXURHIMBHHRHMUYC
-明文：IT WILL EAT EVERYTING（它会吞噬所有）</p>
+<p>密文：USMXURHIMBHHRHMUYC</p>
+<p>明文：IT WILL EAT EVERYTING（它会吞噬所有）</p>
 </BR>
-<p>密文：USMXURXTBSEXOOYYLF
-明文：IT WILL OPEN YOUR HEAD（它会打开你的脑袋）</p>
+<p>密文：USMXURXTBSEXOOYYLF</p>
+<p>明文：IT WILL OPEN YOUR HEAD（它会打开你的脑袋）</p>
 </BR>
-<p>密文：EXOFOYDVMYYJXXAX
-明文：YOU ARE IN THE CLIFF（你在悬崖上）</p>
+<p>密文：EXOFOYDVMYYJXXAX</p>
+<p>明文：YOU ARE IN THE CLIFF（你在悬崖上）</p>
 </BR>
-<p>密文：USsssssssssss（其实是US）
-明文：它</p>
+<p>密文：EXOFOYDVHRIUXXFUTUSNQDVC</p>
+<p>明文：YOU ARE IN YOUR LIAISONS MIND（你在通讯员的意识里）</p>
 </BR>
-<p>密文: USIMBIT
-明文: IT ATE US（它已经吃了我们）</p>
+<p>密文：ZXVMMLRQMFPNUSB</p>
+<p>明文：DONT TRUST ANYONE（不要相信任何人）</p>
 </BR>
-<p>密文：EXOFOYDVHRIUXXFUTUSNQDVC
-明文：YOU ARE IN YOUR LIAISONS MIND（你在通讯员的意识里）</p>
+<p>密文：LRV</p>
+<p>明文：RUN（快跑）</p>
 </BR>
-<p>密文：ZXVMMLRQMFPNUSB
-明文：DONT TRUST ANYONE（不要相信任何人）</p>
-</BR>
-<p>密文：LRV
-明文：RUN（快跑）</p>
-</BR>
-<p>密文：ZXVMUOXYEFAB
-明文：DONT LOOK BACK（不要回头）</p>
+<p>密文：ZXVMUOXYEFAB</p>
+<p>明文：DONT LOOK BACK（不要回头）</p>
 </BR>
 <p>另外我记得 M209 的秘钥应该是设置为六位字母的，想了老半天怎么在文本中找到六位字母( ﾟ∀。)还是得靠 po 主提示</p>
+<hr>
+
+
+<h2 class="relative group">&raquo; NzULvhz No.45041279 
+    <div id="-nzulvhz-no45041279" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#-nzulvhz-no45041279" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+<p>少翻译一个:</p>
+<p>密文: USIMBIT</p>
+<p>明文: IT ATE US(它已经吃了我们)</p>
 
         </div>
         
